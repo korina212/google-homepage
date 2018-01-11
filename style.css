@@ -1,6 +1,35 @@
-img {
-	display: block;
-	margin: 0 auto;
-	width: 30%;
-	padding-top: 200px;
+/* Navigation */
+
+nav {
+	margin: 0;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;	
+}
+
+nav li {
+	display: inline;
+	
+}
+
+main {
+	text-align: center;
+}
+
+.logo img {
+	margin-top: 150px;
+}
+
+#right {
+	float: right;
+	display: inline-block;	
+}
+
+
+#left {
+	float: left;
+	display: inline-block;
 }
